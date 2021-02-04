@@ -1,1 +1,0 @@
-Hi this a New Text File written in write mode.
